@@ -1,0 +1,10 @@
+name: SteveWarn
+main: ifteam\SteveWarn\SteveWarn
+version: 1.0-alpha
+author: ifteam
+api:
+- 1.0.0
+- 1.4.1
+- 1.12.0
+- 1.13.0
+- 2.0.0
